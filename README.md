@@ -18,7 +18,8 @@ print(rank)
 ```
 
 ## Output:
-![OUTPUT](2.png)
+![image](https://github.com/user-attachments/assets/8ca8bfd1-e2d7-4da4-a69b-bc954f545230)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
